@@ -1,7 +1,7 @@
-[TAGML>
-[text source="manuscript-tg_lhhs_112" lang="fr">[l>[title rend="underline">La lanterne projection "Aladin"<title]<l]
-[s>[l>Une [del>[add>jolie<add]<del][add>belle<add] main de femme, élégante et fine malgré<l]
-[l>l'agrandissment du close-up manipule un<l]
-[l>browning-bijou.<s]<l]
+[TAGML|+S,+L>
+[text source="manuscript-tg_lhhs_112" lang="fr">[l|L>[title rend="underline">La lanterne projection "Aladin"<title]<l]
+[s|S>[l|L>Une [del|L,S>[add|L,S>jolie<add]<del][add|L,S>belle<add] main de femme, élégante et fine malgré<l]
+[l|L>l'agrandissment du close-up manipule un<l]
+[l|L>browning-bijou.<l]<s]
 <text]
 <TAGML]
