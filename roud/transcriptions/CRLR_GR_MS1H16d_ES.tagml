@@ -1,0 +1,37 @@
+[doc source="typescript-tg_lhhs_107">
+	[defineLayers|+sem,+mat,+gen>
+	[page|mat>
+		[titleSection>
+			[l|mat>[u>[title|sem>LA LANTERNE DE PROJECTION "A L A D I N"<title]<u]<l]
+			[l|mat>par<l]
+			[l|mat>[u>[name|sem>Raymond Brulez<name]<u]<l]
+		<titleSection]
+		[bodySection>
+			[p>
+				[l|mat>Une belle main de femme, élégante et fine malgr<|[del|gen>á<del]|[add|gen>é<add]|> l'agrandissement<l]
+				[l|mat>du close-up, manipule du browning-bi[del|gen rend="slash_crossed" type="typo">l<del]jou. Les doigts bien manucurés<l]
+				[l|mat>caressent, irrésolus, les arabesques de la crosse d'ivoire. C'est<l]
+				[l|mat>l'image des dernie[subst|gen rend="add-del_crossed" type="typo">[del|gen>u<del][add|gen type="typo">r<add]<subst]s soubresauts [del|gen rend="x_crossed" type="ling">pshy<del]psychologiques de l'heroïne avant<l]
+				[l|mat>sont acte de désespoir : sublime rébellion de la virginale [persName|sem>G[subst|gen rend="add-del_crossed" type="typo">[del|gen>e<del][add|gen>r<add]<subst]eta Brenn<persName]<l]
+				[l|mat>refusant de se laisser vendre par des parents indignes à un banquier<l]
+				[l|mat>riche, mais [del|gen rend="x_crossed" type="?">fi<del] difforme et débauché. L'index se courbe sur la cédille<l]
+				[l|mat>métallique de la détente... tire...<l] 
+			<p]
+
+			[p>
+				[l|mat>Et voilà que de la sombre surface d'un étang s'élève un cygne<l]
+				[l|mat>majestueux en un ébouissant battement d'ailes : ce qui n'est pas<l]
+				[l|mat>l'image allégorique de cette âme se dégageant des liens terrestre[subst|gen rend="add-del_crossed" type="typo">[del|gen>l<del][add|gen type="typo">s<add]<subst]<l]
+				[l|mat>vers de calmes empyrées, mais simplement la signature du film et la<l]
+				[l|mat>marque commerciale de la "[orgName|sem index=false>Swann Vitascope Distributing Co. Ltd.<orgName]"<l]
+			<p]
+
+			[p>
+				[l|mat>[quote>Comment trouvez-vous cette nouve[subst|gen rend="add-del_crossed" type="typo">[del|gen>e<del][add|gen type="typo">lle<add]<subst] [del|gen rend="slash_crossed" type="typo">e<del]invention, ce film en re[wordDivision|mat>-<wordDivision]<l]
+				[l|mat>lief ?<quote] demandait [persName|sem index=true>Van Truggel<persName], le directeur du cinéma "[placeName|sem index=true>Apollon<placeName]" à<l]
+				[l|mat>l'opérateur qui enlevait les bobines.<l]
+			<p]
+		<bodySection]
+	<page]
+	<defineLayers]
+<doc]
