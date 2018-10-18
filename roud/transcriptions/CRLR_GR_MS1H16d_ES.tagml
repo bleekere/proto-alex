@@ -1,5 +1,6 @@
-
-[excerpt|+stage2,+stage3,+stage3a,+stage3b,+p,+l>
+[TAGML>
+[layerdef|+stage2,+stage3,+stage3a,+stage3b,+p,+l>
+[excerpt>
 
 		
 [pg>
@@ -47,4 +48,7 @@
 [l|l>ment,<del] celle du coeur, [del|stage3>ah! tu le sais puisque<del][add|stage3>et [del|stage3>aussitôt<del]<add] la voix de tous [subst|stage3>[del|stage3>ses<del]<|[add|stage3>nos<add]|[add|stage3>mes<add]|><subst] morts<l]
 <pg]
 ...<p]
+
 <excerpt]
+<layerdef]
+<TAGML]
