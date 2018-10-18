@@ -1,0 +1,18 @@
+[TAGML>
+[layerdef|+S,+N>
+[chapter|N>[title|N,S>[u|N,S>D'un Requiem<u]<title]
+[excerpt|N,S source={author="Gustave Roud" work="requiem" id="CRLR_GR_MS1H16d_1r_1"} lang="fr" encoding="UTF-8">
+[p|S,N>
+[s|N>[l|S>Rêve, o retrouver ma vraie voix, loin de ce concert de paroles<l][l|S>apprêtées, comme un enfant!<s]
+[s|N>Celle que tu pourrais entendre, si le sel<l][l|S> des larmes l'avait faite assez pure.<s]
+[s|N>Il n'y a point suffi.<l]<s]
+<p]
+[p|S,N>[s|N>[l|S>Parfois je redescends vers le bosquet riverain de sapins et de<l] [l|S>frênes où ma vie a reçu jadis sa secrète blessure d'éternité.<s][s|N>Je<l] [l|S>retrouve un lieu sans mémoire, absent et familier tout ensemble, et<l] [l|S>prodigue d'une telle douceur d'accueil que je n'ose plus l'interroger,<l] [l|S>comme un hôte dont la parole s'embarrasse.<s]
+[s|N>Sous l'arc des vergnes [?add|S>aulnes<?add], le<l] [l|S>ruisseau brise et brouille aux pierres <|en saillie|noyées|> toute une écume de<l] [l|S>syllabes, se reprend soudain avec d'étranges rires de<l] [l|S>gorge, change de voix et de reflets, <|lisse un|double au|> miroir d'une seconde<l] [l|S>[?del|S>[unclear|S>xxx<unclear]double [unclear|S>xxx<unclear]<?del] [note|N def="Épilope a épi est un Osier fleuri, un laurier">l'épi<-note] rose d'un [+note|N>épilobe<note], puis détaille distinctement<l] [l|S>une phrase si proche de l'humain que je m'épuise à la vouloir saisir,<l] [l|S>[?del|S>figé, bouche close,<?del] tandis qu'à mon épaule glisse une petite pluie<l] [l|S>d'aiguilles et d'écorces, [?add|S>la<?add] salutation là-haut d'un écureuil.<l]<s]<p]
+[p|S,N>[s|N>[l|S>Vains retours, et de tous le plus vain, celui d'aujourdhui, peut-<l][l|S>être.<s][s|N>Mais il [u|N,S>faillait<u] reprendre le chemin.<s][s|N>Je n'en pouvais, je n'en<l] [l|S>puis plus de cerner en moi ce mystère d'un mystère où tout inexorable<l][l|S>ment me <|renfonce|[unclear|S>xxxx<unclear]|>.<s] [s|N>Tu le sais: au centre de ma vie, il y a cette faille,<l] [l|S>cette transparence, ce suspens indicible sur quoi se fixent, fascinés,<l] [l|S>mon regard et ma pensée.<s][s|N>Un jour, je fus admis vivant à l'éternel.<l]<s]<p]
+[p|S,N>[s|N>[l|S>Ici même, dans cet espace innocent d'eaux vives, de feuillages et<l] [l|S><|d'oiseaux|[unclear|S>xxx<unclear]|> si vite rassuré[?add|N>e<?add]s.<s] [s|N>L'éternel n'est pas une Terre Promise <|au|à la|><l] [l|S><|terme infini|à la pointe d'une route infinie|pointe extrème|> d'un chemin de sueurs et de larmes et nul n'en pourrait<l] [l|S>forcer l'accès par quelque intrusion frauduleuse, puisque nous sommes<l] [l|S>[u|S,N>en lui<u].<s][s|N>La connaissance qu'une grâce nous en donne est brutale comme un<l] [l|S>rapt.<s][s|N>C'est [u|S,N>lui<u] qui entre en nous dans un tremblement foncier, irré<l][l|S>pressible de tout l'être; notre cécité nous est arrachée d'un coup,<l] [l|S>comme la taie d'un oeil tari.<s][s|N>Celle du corps, [?del|+S1>qui <|s|l|>'ignorait farouche<l][l|+S2>ment;<?del|S1]celle du coeur, [?del|S>ah! tu le sais, puisque<?del][?add|S>et [del|S>aussitôt<del]<?add] la voix de tous <|ses|nos|mes|> morts<l|S2]<s]
+<p]
+<excerpt]
+<chapter]
+<layerdef]
+<TAGML]
