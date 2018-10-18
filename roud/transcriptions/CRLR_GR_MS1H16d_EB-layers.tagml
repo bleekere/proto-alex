@@ -1,4 +1,5 @@
-[TAGML|+L1,+L2>
+[TAGML>
+[layerdef|+L1,+L2>
 [excerpt|L1 source={author="Gustave Roud" work="requiem" id="CRLR_GR_MS1H16d_1r_1"} lang="fr" encoding="UTF-8">
 [chapter|L1>[title|L2>[u>D'un Requiem<u]<title]
 [p|L1>
@@ -14,4 +15,5 @@
 <p]
 <chapter]
 <excerpt]
+<layerdef]
 <TAGML]
