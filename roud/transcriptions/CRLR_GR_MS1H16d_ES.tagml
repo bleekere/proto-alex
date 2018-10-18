@@ -1,40 +1,41 @@
 
-[excerpt|+stage2,+stage3,+stage3a,+stage3b,+l>
+[excerpt|+stage2,+stage3,+stage3a,+stage3b,+p,+l>
 
 		
 [pg>
 [title>[u>D'un Requiem<u]<title]
 
+[p|p>
 [l|l>[em color="red">R<em]êve, o retrouver ma vraie voix, loin de ce concert de paroles<l]
 [l|l>apprêtées, comme un enfant! Celle que tu pourrais entendre, si le sel<l]
 [l|l>des larmes l'avait faite assez pure. Il n'y a point suffi.<l]
+<p]
 
-
+[p|p>
 [l|l>Parfois je redescends vers le bosquet riverain de sapins et de<l]
 [l|l>frênes où ma vie a reçu jadis sa secrète blessure d'éternité. Je<l]
 [l|l>retrouve un lieu sans mémoire, absent et familier tout ensemble, et<l]
 [l|l>prodigue d'une telle douceur d'accueil que je n'ose plus l'interroger,<l]
 [l|l>comme un hôte dont la parole s'embarasse. Sous l'arc des <|vergnes|[add|stage2>aulnes<add]|>, le<l]
-[l|l>ruisseau brise et brouille aux pierres [subst>[del|stage3>en saillie<del][add|stage3 medium="pen">noyées<add]<subst] toute une écume de<l]
+[l|l>ruisseau brise et brouille aux pierres [subst|stage3>[del|stage3>en saillie<del][add|stage3 medium="pen">noyées<add]<subst] toute une écume de<l]
 [l|l>syllabes [del|stage3>[unclear>xxxxxxxxxx<unclear]<del], se reprend soudain avec d'étranges rires de<l]
-[l|l>gorge, change de voix et de reflets, [subst>[del|stage3>lisse un<del][add|stage3 medium="pen">double au<add]<subst] miroir d'une seconde<l]
+[l|l>gorge, change de voix et de reflets, [subst|stage3>[del|stage3>lisse un<del][add|stage3 medium="pen">double au<add]<subst] miroir d'une seconde<l]
 [l|l>[del|stage3>[unclear>xxx doublex<unclear]<del]l'épi rose d'un[del|stage3 medium="pen">[unclear>e<unclear]<del] épilobe, puis détaille distinctement<l]
 [l|l>une phrase si proche de l'humain que je m'épuise à la vouloir saisir<l]
 [l|l>[del|stage3 medium="pen">figé bouche close,<del] tandis qu'à mon épaule glisse une petite pluie<l]
 [l|l>d'aiguilles et d'écorces, [add|stage3 medium="pen">la<add] salutation là-haut d'un écureil.<l]
+<p]
 
-
-
+[p|p>
 [l|l>Vains retours, et de tous le plus vain, celui d'aujourd'hui, peut-<l]
 [l|l>être. Mais il [u>fallait<u] reprendre le chemin. Je n'en pouvais, je n'en<l]
 [l|l>puis plus de cerner en moi ce mystère d'un mystère où tout inexorable-<l]
-[l|l>ment me <|renfonce|[add|stage3>xxxx<add]|>. Tu le sais: au centre de ma vie, il y a cette faille,<l] 
-		[! it should be <|renfonce|[add|stage3>[unclear>xxxx<unclear]<add]|> but it provokes the error of branches and layers !]
+[l|l>ment me <|renfonce|[add|stage3>[unclear>xxxx<unclear]<add]|>. Tu le sais: au centre de ma vie, il y a cette faille,<l] 
 [l|l>cette transparence, ce suspens indicible sur quoi se fixent, fascinés,<l]
 [l|l>mon regard et ma pensée. Un jour, je fus admis vivant à l'éternel.<l]
+<p]
 
-
-
+[p|p>
 [l|l>Ici même, dans cet espace innocent d'eaux vives, de feuillages, et<l]
 [l|l>[add|stage3 medium="pen">de [unclear>xxxxxxxx<unclear]<add] d'oiseaux si vite rassuré[add|stage3 medium="pen">e<add]s. L'éternel n'est pas une Terre Promise [subst|stage3a medium="pen">[del|stage3a>au<l]
 [l|l>terme infini<del|stage3a][subst|stage3b medium="pen">[del|stage3b>[add|stage3a>à la pointe d'une route infinie<add|stage3a]<del|stage3b]<subst|stage3a][add|stage3b>à la pointe extrème<add|stage3b]<subst|stage3b] d'un chemin de sueurs et de larmes et nul n'en pourrait<l]
@@ -43,7 +44,7 @@
 [l|l>rapt. C'est [u>lui<u] qui entre en nous dans un tremblement foncier, irré-<l]
 [l|l>pressible de tout l'être; notre cécité nous est arrachée d'un coup,<l]
 [l|l>comme la taie d'un oeil tari. Celle du corps, [del|stage3 medium="pen">qui s'ignorait farouche-<l]
-[l|l>ment,<del] celle du coeur, [del|stage3>ah! tu le sais puisque<del][add|stage3>et [del|stage3 medium="pen">aussitôt<del]<add] la voix de tous [del|stage3>ses<del]<|[add|stage3>nos<add]|[add|stage3>mes<add]|> morts<l]
+[l|l>ment,<del] celle du coeur, [del|stage3>ah! tu le sais puisque<del][add|stage3>et [del|stage3 medium="pen">aussitôt<del]<add] la voix de tous [subst|stage3>[del|stage3>ses<del]<|[add|stage3>nos<add]|[add|stage3>mes<add]|><subst] morts<l]
 <pg]
-...
+...<p]
 <excerpt]
