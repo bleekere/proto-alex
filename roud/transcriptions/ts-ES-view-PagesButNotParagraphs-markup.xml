@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:tag="http://tag.di.huc.knaw.nl/ns/tag" xmlns:th="http://www.blackmesatech.com/2017/nss/trojan-horse" th:doc="_default l p stage2 stage3 stage3a stage3b">
+<TAGML th:doc="_default" th:sId="TAGML0"/><excerpt th:doc="_default" th:sId="excerpt1"/><pg th:doc="_default" th:sId="pg2"/><title th:doc="_default" th:sId="title3"/><layerdef th:doc="l p stage2 stage3 stage3a stage3b" th:sId="layerdef4"/><u th:doc="_default" th:sId="u5"/>D&apos;un Requiem<u th:doc="_default" th:eId="u5"/><title th:doc="_default" th:eId="title3"/>
+
+<p th:doc="p" th:sId="p6"/>
+<l th:doc="l" th:sId="l7"/><em color="red" th:doc="_default" th:sId="em8"/>R<em th:doc="_default" th:eId="em8"/>êve, o retrouver ma vraie voix, loin de ce concert de paroles<l th:doc="l" th:eId="l7"/>
+<l th:doc="l" th:sId="l9"/>apprêtées, comme un enfant! Celle que tu pourrais entendre, si le sel<l th:doc="l" th:eId="l9"/>
+<l th:doc="l" th:sId="l10"/>des larmes l&apos;avait faite assez pure. Il n&apos;y a point suffi.<l th:doc="l" th:eId="l10"/>
+<p th:doc="p" th:eId="p6"/>
+
+<p th:doc="p" th:sId="p11"/>
+<l th:doc="l" th:sId="l12"/>Parfois je redescends vers le bosquet riverain de sapins et de<l th:doc="l" th:eId="l12"/>
+<l th:doc="l" th:sId="l13"/>frênes où ma vie a reçu jadis sa secrète blessure d&apos;éternité. Je<l th:doc="l" th:eId="l13"/>
+<l th:doc="l" th:sId="l14"/>retrouve un lieu sans mémoire, absent et familier tout ensemble, et<l th:doc="l" th:eId="l14"/>
+<l th:doc="l" th:sId="l15"/>prodigue d&apos;une telle douceur d&apos;accueil que je n&apos;ose plus l&apos;interroger,<l th:doc="l" th:eId="l15"/>
+<l th:doc="l" th:sId="l16"/>comme un hôte dont la parole s&apos;embarasse. Sous l&apos;arc des <tag:branches th:doc="_default" th:sId=":branches17"/><tag:branch th:doc="_default" th:sId=":branch18"/>vergnes<tag:branch th:doc="_default" th:eId=":branch18"/><tag:branch th:doc="_default" th:sId=":branch19"/><add th:doc="stage2" th:sId="add20"/>aulnes<add th:doc="stage2" th:eId="add20"/><tag:branch th:doc="_default" th:eId=":branch19"/><tag:branches th:doc="_default" th:eId=":branches17"/>, le<l th:doc="l" th:eId="l16"/>
+<l th:doc="l" th:sId="l21"/>ruisseau brise et brouille aux pierres <subst th:doc="stage3" th:sId="subst22"/><del th:doc="stage3" th:sId="del23"/>en saillie<del th:doc="stage3" th:eId="del23"/><add th:doc="stage3" th:sId="add24"/>noyées<add th:doc="stage3" th:eId="add24"/><subst th:doc="stage3" th:eId="subst22"/> toute une écume de<l th:doc="l" th:eId="l21"/>
+<l th:doc="l" th:sId="l25"/>syllabes <del th:doc="stage3" th:sId="del26"/><unclear th:doc="_default" th:sId="unclear27"/>xxxxxxxxxx<unclear th:doc="_default" th:eId="unclear27"/><del th:doc="stage3" th:eId="del26"/>, se reprend soudain avec d&apos;étranges rires de<l th:doc="l" th:eId="l25"/>
+<l th:doc="l" th:sId="l28"/>gorge, change de voix et de reflets, <subst th:doc="stage3" th:sId="subst29"/><del th:doc="stage3" th:sId="del30"/>lisse un<del th:doc="stage3" th:eId="del30"/><add th:doc="stage3" th:sId="add31"/>double au<add th:doc="stage3" th:eId="add31"/><subst th:doc="stage3" th:eId="subst29"/> miroir d&apos;une seconde<l th:doc="l" th:eId="l28"/>
+<l th:doc="l" th:sId="l32"/><del th:doc="stage3" th:sId="del33"/><unclear th:doc="_default" th:sId="unclear34"/>xxx doublex<unclear th:doc="_default" th:eId="unclear34"/><del th:doc="stage3" th:eId="del33"/>l&apos;épi rose d&apos;un<del th:doc="stage3" th:sId="del35"/><unclear th:doc="_default" th:sId="unclear36"/>e<unclear th:doc="_default" th:eId="unclear36"/><del th:doc="stage3" th:eId="del35"/> épilobe, puis détaille distinctement<l th:doc="l" th:eId="l32"/>
+<l th:doc="l" th:sId="l37"/>une phrase si proche de l&apos;humain que je m&apos;épuise à la vouloir saisir<l th:doc="l" th:eId="l37"/>
+<l th:doc="l" th:sId="l38"/><del th:doc="stage3" th:sId="del39"/>figé bouche close,<del th:doc="stage3" th:eId="del39"/> tandis qu&apos;à mon épaule glisse une petite pluie<l th:doc="l" th:eId="l38"/>
+<l th:doc="l" th:sId="l40"/>d&apos;aiguilles et d&apos;écorces, <add th:doc="stage3" th:sId="add41"/>la<add th:doc="stage3" th:eId="add41"/> salutation là-haut d&apos;un écureil.<l th:doc="l" th:eId="l40"/>
+<p th:doc="p" th:eId="p11"/>
+
+<p th:doc="p" th:sId="p42"/>
+<l th:doc="l" th:sId="l43"/>Vains retours, et de tous le plus vain, celui d&apos;aujourd&apos;hui, peut-<l th:doc="l" th:eId="l43"/>
+<l th:doc="l" th:sId="l44"/>être. Mais il <u th:doc="_default" th:sId="u45"/>fallait<u th:doc="_default" th:eId="u45"/> reprendre le chemin. Je n&apos;en pouvais, je n&apos;en<l th:doc="l" th:eId="l44"/>
+<l th:doc="l" th:sId="l46"/>puis plus de cerner en moi ce mystère d&apos;un mystère où tout inexorable-<l th:doc="l" th:eId="l46"/>
+<l th:doc="l" th:sId="l47"/>ment me <tag:branches th:doc="_default" th:sId=":branches48"/><tag:branch th:doc="_default" th:sId=":branch49"/>renfonce<tag:branch th:doc="_default" th:eId=":branch49"/><tag:branch th:doc="_default" th:sId=":branch50"/><add th:doc="stage3" th:sId="add51"/><unclear th:doc="_default" th:sId="unclear52"/>xxxx<unclear th:doc="_default" th:eId="unclear52"/><add th:doc="stage3" th:eId="add51"/><tag:branch th:doc="_default" th:eId=":branch50"/><tag:branches th:doc="_default" th:eId=":branches48"/>. Tu le sais: au centre de ma vie, il y a cette faille,<l th:doc="l" th:eId="l47"/> 
+<l th:doc="l" th:sId="l53"/>cette transparence, ce suspens indicible sur quoi se fixent, fascinés,<l th:doc="l" th:eId="l53"/>
+<l th:doc="l" th:sId="l54"/>mon regard et ma pensée. Un jour, je fus admis vivant à l&apos;éternel.<l th:doc="l" th:eId="l54"/>
+<p th:doc="p" th:eId="p42"/>
+
+<p th:doc="p" th:sId="p55"/>
+<l th:doc="l" th:sId="l56"/>Ici même, dans cet espace innocent d&apos;eaux vives, de feuillages, et<l th:doc="l" th:eId="l56"/>
+<l th:doc="l" th:sId="l57"/><add th:doc="stage3" th:sId="add58"/>de <unclear th:doc="_default" th:sId="unclear59"/>xxxxxxxx<unclear th:doc="_default" th:eId="unclear59"/><add th:doc="stage3" th:eId="add58"/> d&apos;oiseaux si vite rassuré<add th:doc="stage3" th:sId="add60"/>e<add th:doc="stage3" th:eId="add60"/>s. L&apos;éternel n&apos;est pas une Terre Promise <subst th:doc="stage3a" th:sId="subst61"/><del th:doc="stage3a" th:sId="del62"/>au<l th:doc="l" th:eId="l57"/>
+<l th:doc="l" th:sId="l63"/>terme infini<del th:doc="stage3a" th:eId="del62"/><subst th:doc="stage3b" th:sId="subst64"/><del th:doc="stage3b" th:sId="del65"/><add th:doc="stage3a" th:sId="add66"/>à la pointe d&apos;une route infinie<add th:doc="stage3a" th:eId="add66"/><del th:doc="stage3b" th:eId="del65"/><subst th:doc="stage3a" th:eId="subst61"/><add th:doc="stage3b" th:sId="add67"/>à la pointe extrème<add th:doc="stage3b" th:eId="add67"/><subst th:doc="stage3b" th:eId="subst64"/> d&apos;un chemin de sueurs et de larmes et nul n&apos;en pourrait<l th:doc="l" th:eId="l63"/>
+<l th:doc="l" th:sId="l68"/>forcer l&apos;accès par quelque intrusion frauduleuse, puisque nous sommes<l th:doc="l" th:eId="l68"/>
+<l th:doc="l" th:sId="l69"/><u tag:optional="true" th:doc="stage3" th:sId="u70"/>en lui<u th:doc="stage3" th:eId="u70"/>|&gt;. La connaissance qu&apos;une grâce nous en donne est brutale comme un<l th:doc="l" th:eId="l69"/>
+<l th:doc="l" th:sId="l71"/>rapt. C&apos;est <u th:doc="_default" th:sId="u72"/>lui<u th:doc="_default" th:eId="u72"/> qui entre en nous dans un tremblement foncier, irré-<l th:doc="l" th:eId="l71"/>
+<l th:doc="l" th:sId="l73"/>pressible de tout l&apos;être; notre cécité nous est arrachée d&apos;un coup,<l th:doc="l" th:eId="l73"/>
+<l th:doc="l" th:sId="l74"/>comme la taie d&apos;un oeil tari. Celle du corps, <del th:doc="stage3" th:sId="del75"/>qui s&apos;ignorait farouche-<l th:doc="l" th:eId="l74"/>
+<l th:doc="l" th:sId="l76"/>ment,<del th:doc="stage3" th:eId="del75"/> celle du coeur, <del th:doc="stage3" th:sId="del77"/>ah! tu le sais puisque<del th:doc="stage3" th:eId="del77"/><add th:doc="stage3" th:sId="add78"/>et <del th:doc="stage3" th:sId="del79"/>aussitôt<del th:doc="stage3" th:eId="del79"/><add th:doc="stage3" th:eId="add78"/> la voix de tous <subst th:doc="stage3" th:sId="subst80"/><del th:doc="stage3" th:sId="del81"/>ses<del th:doc="stage3" th:eId="del81"/><tag:branches th:doc="_default" th:sId=":branches82"/><tag:branch th:doc="_default" th:sId=":branch83"/><add th:doc="stage3" th:sId="add84"/>nos<add th:doc="stage3" th:eId="add84"/><tag:branch th:doc="_default" th:eId=":branch83"/><tag:branch th:doc="_default" th:sId=":branch85"/><add th:doc="stage3" th:sId="add86"/>mes<add th:doc="stage3" th:eId="add86"/><tag:branch th:doc="_default" th:eId=":branch85"/><tag:branches th:doc="_default" th:eId=":branches82"/><subst th:doc="stage3" th:eId="subst80"/> morts<l th:doc="l" th:eId="l76"/>
+<pg th:doc="_default" th:eId="pg2"/>
+...<p th:doc="p" th:eId="p55"/>
+
+<excerpt th:doc="_default" th:eId="excerpt1"/>
+<layerdef th:doc="l p stage2 stage3 stage3a stage3b" th:eId="layerdef4"/>
+<TAGML th:doc="_default" th:eId="TAGML0"/>
+</xml>
