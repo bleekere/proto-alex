@@ -1,2 +1,4 @@
-/roud/transcriptions/.alexandria
-/brulez/transcriptions/.alexandria
+*/roud/transcriptions/.alexandria
+*/brulez/transcriptions/.alexandria
+*/.alexandria/
+*/.DS_Store
