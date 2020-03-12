@@ -1,0 +1,5 @@
+[root metadata={persons=[{:id=rou001 name='Gustave Roud'},{:id=doe002 name='Jane Doe'}]}>
+[excerpt source={author->rou001 editor->doe002 work="requiem" ts-id="CRLR_GR_MS1H16d_1r_1"} lang="fr" encoding="UTF-8">
+[p>some [pers name->doe002>text<pers] here <p]
+<excerpt]
+<root]
